@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Murali/Downloads/rest-assured-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Murali/Downloads/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/client-combined-3.4.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/mvnjars/selenium-api-3.4.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/mvnjars/selenium-firefox-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/mvnjars/selenium-java-3.4.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/mvnjars/selenium-remote-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/mvnjars/selenium-server-3.4.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/mvnjars/selenium-support-3.4.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
